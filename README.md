@@ -4,7 +4,7 @@
 
 [https://biblebysree.vercel.app/api/getBookChapterVerse/Gen/1/1](https://biblebysree.vercel.app/api/getBookChapterVerse/Gen/1/1)
 
-# change after api/getBookChapterVerse/BookName/chapter/verse 
+# change after api/getBookChapterVerse/
 
 BookName=Gen
 chapter=1
